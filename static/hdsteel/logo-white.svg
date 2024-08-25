@@ -1,0 +1,35 @@
+<svg data-name="@logo_white" xmlns="http://www.w3.org/2000/svg" width="205" height="66" viewBox="0 0 205 66">
+    <defs>
+        <clipPath id="1u0lcumhga">
+            <path data-name="패스 210167" d="M24.242 0v9.065a15.511 15.511 0 0 0-15.108 0V0H0v26h9.134v-8.435a9.6 9.6 0 0 1 7.556-3.3 9.591 9.591 0 0 1 7.552 3.3V26h9.136V0z" style="fill:#fff"/>
+        </clipPath>
+        <clipPath id="kl9u027sxb">
+            <path data-name="사각형 150218" style="fill:#fff" d="M0 0h111.514v26H0z"/>
+        </clipPath>
+    </defs>
+    <text transform="translate(120 35)" style="font-size:36px;font-family:Montserrat-Black,Montserrat;font-weight:800;fill:#fff"><tspan x="0" y="0">SMP</tspan></text>
+    <text data-name="System Monitoring Portal" transform="translate(0 62)" style="font-size:15px;font-family:Montserrat-SemiBold,Montserrat;font-weight:600;opacity:.8;fill:#fff"><tspan x="0" y="0">System Monitoring Portal</tspan></text>
+    <g>
+        <g data-name="그룹 147179">
+            <g data-name="그룹 147178" style="clip-path:url(#1u0lcumhga)" transform="translate(0 9)">
+                <path data-name="사각형 150217" style="fill:#fff" d="M0 0h33.378v26H0z"/>
+            </g>
+        </g>
+        <g data-name="그룹 147181">
+            <g data-name="그룹 147180" style="clip-path:url(#kl9u027sxb)" transform="translate(0 9)">
+                <path data-name="패스 210168" d="M113.558 7.977h-5.132V4.2h-2.41v9.683h2.41V9.867h5.132v4.012h2.405V4.2h-2.405z" transform="translate(-68.729 -2.895)" style="fill:#fff"/>
+                <path data-name="패스 210169" d="M275.207 4.749a1.994 1.994 0 0 0-.535 1.507v7.622h2.4v-3.09h5.11v3.09h2.418V4.2h-7.51a2.714 2.714 0 0 0-1.884.554m2.484 1.338h4.495V8.9h-5.11V6.639a.691.691 0 0 1 .091-.431c.113-.125.3-.116.524-.122" transform="translate(-178.068 -2.895)" style="fill:#fff"/>
+                <path data-name="패스 210170" d="M213.884 4.2h-7.525v9.683h2.41V6.087h4.516c.227.007.41 0 .52.122s.085.32.095.431v7.239h2.408V6.257a2.015 2.015 0 0 0-.536-1.508 2.719 2.719 0 0 0-1.889-.553" transform="translate(-133.781 -2.896)" style="fill:#fff"/>
+                <path data-name="패스 210171" d="M179.559 11.431a.7.7 0 0 1-.092.431c-.114.128-.3.117-.521.121h-4.516V4.2h-2.409v9.683h7.522a2.72 2.72 0 0 0 1.886-.557 1.978 1.978 0 0 0 .537-1.506V4.2h-2.407z" transform="translate(-111.52 -2.895)" style="fill:#fff"/>
+                <path data-name="패스 210172" d="M250.661 6.256a2 2 0 0 0-.534-1.507 2.711 2.711 0 0 0-1.885-.554h-7.522v9.683h7.522a2.717 2.717 0 0 0 1.885-.557 1.99 1.99 0 0 0 .534-1.506zm-2.4 5.175a.733.733 0 0 1-.092.431c-.113.128-.3.117-.519.121h-4.526v-5.9h4.526c.219.007.406 0 .519.122s.081.32.092.431z" transform="translate(-156.058 -2.895)" style="fill:#fff"/>
+                <path data-name="패스 210173" d="M142.508 8.431 139.584 4.2h-2.86l4.5 6.1v3.58h2.571V10.3l4.493-6.1h-2.859z" transform="translate(-88.638 -2.896)" style="fill:#fff"/>
+                <path data-name="패스 210174" d="M309.764 4.2v9.683h2.569V4.2z" transform="translate(-200.818 -2.896)" style="fill:#fff"/>
+                <path data-name="패스 210175" d="M238.82 56.2v-7.738h-2.5v9.683h8.18V56.2z" transform="translate(-153.203 -33.445)" style="fill:#fff"/>
+                <path data-name="패스 210176" d="M175.418 50.469h6.539v-2.007h-9.042v9.683h9.042v-2.007h-6.539v-1.925h5.682v-1.82h-5.679v-1.924z" transform="translate(-112.1 -33.445)" style="fill:#fff"/>
+                <path data-name="패스 210177" d="M207.117 50.469h6.542v-2.007h-9.043v9.683h9.043v-2.007h-6.542v-1.925h5.683v-1.82h-5.681v-1.924z" transform="translate(-132.652 -33.445)" style="fill:#fff"/>
+                <path data-name="패스 210178" d="M113.747 52.293h-4.725c-.408 0-.609-.182-.609-.548V50.9c0-.287.2-.432.609-.432h6.615v-2.005h-7.211q-2.411 0-2.411 2.054v1.8q0 1.982 2.3 1.983h4.7q.61 0 .61.548v.858q0 .432-.61.433h-6.907v2.006h7.517q2.421 0 2.423-2.065v-1.8q0-1.983-2.305-1.984" transform="translate(-68.729 -33.446)" style="fill:#fff"/>
+                <path data-name="패스 210179" d="M139.017 48.462v2.007h3.72v7.676h2.5v-7.676h3.72v-2.007z" transform="translate(-90.124 -33.445)" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>
